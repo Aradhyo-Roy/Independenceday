@@ -1,0 +1,15 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background: linear-gradient( orange 0%, whitesmoke 50%, green 100%);
+}
+#home h1{
+    color: whitesmoke;
+}
+#home h3{
+    color: whitesmoke;
+}
+h6{
+    color: whitesmoke;
+}
